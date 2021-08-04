@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/license/chsafouane/calmcode_readme_tut)
+![](https://img.shields.io/github/repo-size/chsafouane/calmcode_readme_tut)
 
 <img src="happyface.jpeg" width=125 height=125 align="right">
 
