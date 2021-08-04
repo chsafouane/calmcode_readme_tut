@@ -2,7 +2,7 @@
 
 The `numberstring` package can translate integers into strings in python.
 
-![](happyface.png)
+![](happyface.jpeg)
 
 ## Installation
 
